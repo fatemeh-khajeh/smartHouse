@@ -1,0 +1,7 @@
+Install
+---
+
+pip install googletrans==13.1.0a0
+pip install SpeechRecognition
+pip install gtts
+pip install playsound
